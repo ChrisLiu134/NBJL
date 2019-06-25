@@ -1,2 +1,2 @@
 百家乐牌路六种算法，
-主要使用了cocos2dx的tableView和tableCell去实现。 应该很容易看懂
+主要使用了cocos2dx的tableView和tableCell去实现。圈圈和点和斜线，使用的是drawNode，使用这个区绘制锯齿感非常严重，不知道有什么好办法去去除
